@@ -78,11 +78,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ex25.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ex25.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex25.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="508">
               <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex26.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex26.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="90" column="11" lean-forward="true" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -138,6 +148,7 @@
         <option value="$PROJECT_DIR$/ex21.py" />
         <option value="$PROJECT_DIR$/ex24.py" />
         <option value="$PROJECT_DIR$/ex25.py" />
+        <option value="$PROJECT_DIR$/ex26.py" />
       </list>
     </option>
   </component>
@@ -664,6 +675,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="90" column="11" lean-forward="true" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
           <folding />
         </state>
       </provider>
